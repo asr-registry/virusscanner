@@ -1,4 +1,4 @@
-package af.asr.phoenixvirusscanner;
+package af.asr.virusscanner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

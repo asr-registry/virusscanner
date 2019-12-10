@@ -1,4 +1,4 @@
-package af.asr.phoenixvirusscanner;
+package af.asr.virusscanner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
