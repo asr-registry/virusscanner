@@ -12,11 +12,11 @@
 	<artifactId>phoenix-virusscanner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>phoenix-virusscanner</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Virus Scanner Library</description>
 
 	<properties>
 		<java.version>1.8</java.version>
-		<clamav.version>2.0.2</clamav.version>
+		<clamav.version>1.0.4</clamav.version>
 	</properties>
 
 	<dependencies>
@@ -31,6 +31,7 @@
 			<artifactId>clamav-client</artifactId>
 			<version>${clamav.version}</version>
 		</dependency>
+
 
 
 		<dependency>
